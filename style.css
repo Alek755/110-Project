@@ -1,0 +1,49 @@
+body {
+    background-color: #CACAEA;
+}
+
+.gesture {
+    font-size: 48px;
+}
+
+.header_section {
+    background-color: #1C1259;
+    margin-top: 0px;
+    color: #EE4266;
+    border: 4px;
+    border-radius: 6px;
+    letter-spacing: 5px;
+    width: 700px;
+}
+
+.emoji_question {
+    color: black;
+
+}
+
+hr {
+    background-color: #1C1259;
+    height: 3px;
+    width: 100% !important;
+}
+
+#camera, #taken_photo {
+    width: 400px;
+    height: 400px;
+    border: 4px;
+    border-radius: 6px;
+    border-color: #1C1259;
+
+}
+
+.button {
+    background-color: #1C1259;
+    color: #EE4266;
+    border-radius: 6px;
+    font-size: 20px;
+}
+
+label {
+    font-size: 15px;
+
+}
